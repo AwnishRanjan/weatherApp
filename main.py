@@ -1,3 +1,5 @@
+# coded by Awnish Ranjan : ranjanawnish07@gmail.com
+
 import os
 import json
 import smtplib
